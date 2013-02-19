@@ -1,0 +1,4 @@
+{"ts":1361247382803,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"<h3>Home</h3>\n<% @users.each do |user| %>\n  <p>User: <%=link_to user.name, user %></p>\n<% end %>\n"]],"start1":0,"start2":0,"length1":0,"length2":97}]],"length":97}
+{"contributors":[],"silentsave":false,"ts":1361247421581,"patch":[[{"diffs":[[0," <p>User"],[1,"  "],[0,": <%=lin"]],"start1":43,"start2":43,"length1":16,"length2":18}]],"length":99,"saved":false}
+{"ts":1361248049114,"patch":[[{"diffs":[[0,"p>User  "],[1,"    "],[0,": <%=lin"]],"start1":45,"start2":45,"length1":16,"length2":20}]],"length":103,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1361248325276,"patch":[[{"diffs":[[0,"<h3>"],[-1,"Home"],[1,"Персоны"],[0,"</h3"]],"start1":0,"start2":0,"length1":12,"length2":15}]],"length":106,"saved":false}
