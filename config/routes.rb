@@ -1,4 +1,7 @@
 Fasper::Application.routes.draw do
+  resources :orders
+
+
   authenticated :user do
     root :to => 'home#index'
   end

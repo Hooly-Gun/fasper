@@ -1,0 +1,1 @@
+{"ts":1361527302435,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"class Order < ActiveRecord::Base\n  attr_accessible :date_edit, :date_order, :description, :id_customer, :id_linkman, :id_order_status, :number_order, :summa_order\nend\n"]],"start1":0,"start2":0,"length1":0,"length2":167}]],"length":167}

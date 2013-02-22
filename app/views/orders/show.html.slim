@@ -1,0 +1,30 @@
+p#notice = notice
+
+p
+  strong Number order:
+  = @order.number_order
+p
+  strong Date order:
+  = @order.date_order
+p
+  strong Date edit:
+  = @order.date_edit
+p
+  strong Id customer:
+  = @order.id_customer
+p
+  strong Id linkman:
+  = @order.id_linkman
+p
+  strong Id order status:
+  = @order.id_order_status
+p
+  strong Summa order:
+  = @order.summa_order
+p
+  strong Description:
+  = @order.description
+
+= link_to 'Edit', edit_order_path(@order)
+'|
+= link_to 'Back', orders_path
