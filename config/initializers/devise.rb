@@ -265,5 +265,5 @@ Devise.setup do |config|
   require "omniauth-facebook"
   #OAUTH_CREDENTIALS_PATH = "#{ENV['HOME']}/fasper/oauth.yml"
   #OAUTH_CREDENTIALS = YAML.load_file(OAUTH_CREDENTIALS_PATH)[Rails.env]
-  config.omniauth :facebook, "318135538308715", "66e32626436acd9d52c609822da2e404"
+  config.omniauth :facebook, "545173095502773", "725a0139422bb9091b2adce1606c9db1"
 end

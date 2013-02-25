@@ -1,0 +1,1 @@
+{"ts":1361792188693,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"class AddUrlNickProvToUsers < ActiveRecord::Migration\n  def change\n    add_column :users, :url, :string\n    add_column :users, :provider, :string\n    add_column :users, :nickname, :string\n  end\nend\n"]],"start1":0,"start2":0,"length1":0,"length2":198}]],"length":198}
