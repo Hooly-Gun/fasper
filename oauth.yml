@@ -1,0 +1,18 @@
+development: &defaults
+  :facebook:
+    :app_id: 318135538308715
+    :app_secret: 66e32626436acd9d52c609822da2e404
+    :app_permissions: "notify, wall, offline"
+
+test:
+  <<: *defaults
+
+staging:
+  <<: *defaults
+
+production:
+  <<: *defaults
+  :facebook:
+    :app_id: 318135538308715
+    :app_secret: 66e32626436acd9d52c609822da2e404
+    :app_permissions: "notify, wall, offline"

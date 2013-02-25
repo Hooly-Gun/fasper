@@ -6,3 +6,4 @@
 {"contributors":["gennom@outlook.com"],"silentsave":false,"ts":1361286151633,"patch":[[{"diffs":[[0,"'slim-rails'"],[1,"\ngem 'zentest'"]],"start1":635,"start2":635,"length1":12,"length2":26}]],"length":661,"saved":false}
 {"ts":1361286416809,"patch":[[{"diffs":[[0,"ils'"],[-1,"\ngem 'zentest'"]],"start1":643,"start2":643,"length1":18,"length2":4}]],"length":647,"saved":false}
 {"contributors":[],"silentsave":false,"ts":1361293526889,"patch":[[{"diffs":[[0,", '3.2.1"],[-1,"1"],[1,"2"],[0,"'\ngroup "]],"start1":41,"start2":41,"length1":17,"length2":17}]],"length":647,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1361731061541,"patch":[[{"diffs":[[0,"'slim-rails'"],[1,"\ngem 'omniauth'\ngem 'omniauth-facebook'\ngem 'omniauth-vkontakte'"]],"start1":635,"start2":635,"length1":12,"length2":76}]],"length":711,"saved":false}

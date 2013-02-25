@@ -19,3 +19,6 @@ gem "better_errors", ">= 0.6.0", :group => :development
 gem "binding_of_caller", ">= 0.6.9", :group => :development
 gem 'slim'
 gem 'slim-rails'
+gem 'omniauth'
+gem 'omniauth-facebook'
+gem 'omniauth-vkontakte'
