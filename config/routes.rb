@@ -25,6 +25,10 @@
 
 
 Fasper::Application.routes.draw do
+
+  get "omniauth_callbacks/facebook"
+  get "omniauth_callbacks/vkontakte"
+
   authenticated :user do
     root :to => 'home#index'
   end
